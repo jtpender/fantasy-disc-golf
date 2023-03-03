@@ -8,5 +8,5 @@
     1. Install homebrew
     2. Install vscode
     3. Install oh my zsh
-    4. 
+    4. create git repository and configure local git username and email
 
